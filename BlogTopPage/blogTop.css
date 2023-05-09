@@ -1,0 +1,10 @@
+.img-size{
+    height: 300px;
+    width: 300px;
+}
+
+.circle-size {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+ }
